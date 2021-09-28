@@ -2,4 +2,6 @@ modified in branch main - rebase test
 modified in branchA - rebase test
 modified in branchB - rebase test
 modified in branchC - rebase test
+modified in branch main - merge test
 modified in branchA - merge test
+
