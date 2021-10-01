@@ -1,1 +1,2 @@
 Added test2.txt in main branch
+merge text2.txt in branchA
