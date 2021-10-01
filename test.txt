@@ -1,2 +1,2 @@
-Add test.txt. in main branch
-A:wed test.txt in branchA
+Added test.txt in main branch
+Added test.txt in branch A - Modified in branchA
