@@ -5,3 +5,5 @@ sylee-skhu 화이팅!
 저의 user name은 dkdpawjddnr 입니다.
 저는 1999년 10월 6일에 태어났으며, 현재 살고 있는 곳은 경기도 안산시입니다. 
 잘 부탁드립니다.
+
+add , commit , push 같이해서 올리기
