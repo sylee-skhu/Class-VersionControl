@@ -1,4 +1,5 @@
 # Class-VersionControl
+<<<<<<< HEAD
 과제문제
 - 교수님의 repository에 이슈를 생성 (제목에 "과제" 라고 꼭 명시!!)
 - 교수님의 repository를 fork
