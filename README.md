@@ -1,4 +1,5 @@
 # Class-VersionControl
+
 - middle_homework_A 브랜치가 교수님의 main 브랜치와 동일한 상태가 되도록 맞춤(git reset --hard 교수님원격저장소별명/main)
 - README.md 파일은 # Class-VersionControl 라고 씌여진 파일이다. 그 아랫줄에 본인의 생년월일 6자리을 기입
 - middle_homework_A 브랜치의 변경사항을 반영 (git add README.md 와 git commit -m '메시지' 활용)
@@ -12,4 +13,3 @@
 - 끝
 
 생년월일 : 000822
-
