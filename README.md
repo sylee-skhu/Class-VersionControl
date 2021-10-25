@@ -1,4 +1,5 @@
 # Class-VersionControl
+<<<<<<< HEAD
 과제문제
 - 교수님의 repository에 이슈를 생성 (제목에 "과제" 라고 꼭 명시!!)
 - 교수님의 repository를 fork
@@ -17,5 +18,4 @@
 - 원격저장소의 middle_homework_B 브랜치를 교수님의 2021_2_middle_homework 브랜치로 반영해달라는 풀리퀘스트 생성
 - 풀리퀘스트 내용에 Resolve [본인이 처음에 생성한 이슈 주소] 라고 작성
 - 끝
-
-생년월일 : ******
+생년월일 : 981010
